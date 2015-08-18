@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dunghvph02580_QUANLYBANHANG", "dunghvph02580_QUANLYBANHANG\dunghvph02580_QUANLYBANHANG.csproj", "{288FDC1F-8794-4958-8E80-424AE703DA15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{288FDC1F-8794-4958-8E80-424AE703DA15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{288FDC1F-8794-4958-8E80-424AE703DA15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{288FDC1F-8794-4958-8E80-424AE703DA15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{288FDC1F-8794-4958-8E80-424AE703DA15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
